@@ -11,7 +11,7 @@ export default function About() {
             <div className="flex flex-col items-center gap-8">
                 <div className="text-2xl text-slate-300 leading-relaxed max-w-3xl">
                     Hello! My name is Alex, and I'm a full-stack engineer who likes building
-                    cool applications and bringing ideas to conception. 
+                    cool applications and bringing ideas to life. 
                 </div>
                 
                 <div className="text-2xl text-slate-300 leading-relaxed max-w-3xl">

@@ -11,7 +11,7 @@ export default function Experiences() {
             date: "Aug 2025 – Present",
             location: "Clemson, SC",
             bullets: [
-                "Fine-tune and evaluate LLM/SLMs for Metropolis Agents."
+                "Fine-tune and evaluate LLM/SLMs."
             ],
         },
         {
