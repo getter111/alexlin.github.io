@@ -15,7 +15,7 @@ export default function About() {
                 </div>
                 
                 <div className="text-2xl text-slate-300 leading-relaxed max-w-3xl">
-                    I'm graduating from Clemson University with a Bachelor's Degree in December 2025.
+                    I'm graduating from Clemson University on December 2025 with a Bachelor's in Computer Science.
                     Outside of computer science, my interests include editing, body-building, and learning Mandarin Chinese. 
                 </div>
             </div>

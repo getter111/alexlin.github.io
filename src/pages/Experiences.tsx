@@ -11,7 +11,7 @@ export default function Experiences() {
             date: "Aug 2025 – Present",
             location: "Clemson, SC",
             bullets: [
-                "Fine-tune and evaluate LLM/SLMs."
+                "Industry-sponsored capstone project focused on fine-tuning and evaluating LLM/SLMs for agentic workflows"
             ],
         },
         {
@@ -21,9 +21,9 @@ export default function Experiences() {
             date: "Aug 2024 – Dec 2024",
             location: "Oconee County, SC",
             bullets: [
-                "Designed and built a website for engineers and manufacturing staff to verify component specs and metadata.",
-                "Developed backend API for search functionality to standardize hardware classification lookups.",
-                "Implemented and debugged over 10 frontend features using Azure DevOps to iterate rapidly.",
+                "Created a website for engineers and manufacturing staff to view component specs and configuration metadata for meter builds, reducing lookup time on the factory floor",
+                "Redesigned backend API search functionality, standardizing hardware classification lookups by product and item number, which improved accuracy and consistency across teams",
+                "Debugged 10+ front-end issues using Azure devops to rapidly iterate",
             ],
         },
         {
@@ -33,8 +33,8 @@ export default function Experiences() {
             date: "Jun 2024 - Aug 2024",
             location: "Tarrytown, NY",
             bullets: [
-                "Automated balancing of lab automation test ratios to improve workflow efficiency and data accuracy.",
-                "Collaborated with teams to build a 10-page Power BI dashboard analyzing throughput and system performance.",
+                "Automated lab test ratio balancing, reducing manual calculation time and improving accuracy of workflow scheduling",
+                "Collaborated with cross-functional teams to build a 10 page dashboard, analyzing site-level throughput, module performance, and system bottlenecks",
             ],
         },
         {
@@ -44,8 +44,8 @@ export default function Experiences() {
             date: "Jan 2024 – May 2024",
             location: "Oconee County, SC",
             bullets: [
-                "Synced 50k+ meter spec records from 12 databases to unify catalog and prevent field failures.",
-                "Streamlined customer meter labeling system and implemented dynamic prefix generator.",
+                "Automated nightly sync of 50k+ meter spec records across 12 databases, ensuring the backend catalog stayed up-to-date, reducing risk of field failures",
+                "Developed a dynamic prefix generator that automated customer meter labeling in the internal ordering system, improving scalability and workflow efficiency",
             ],
         },
     ];
