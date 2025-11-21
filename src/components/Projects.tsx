@@ -7,7 +7,7 @@ export default function Projects() {
     const projects = [
         {
             title: "ReadMando",
-            summary: "AI-powered Mandarin learning app with customizable stories, vocab lookup, and personalized flashcards.",
+            summary: "Mandarin learning platform with AI-generated stories, interactive flashcards, TTS audio, self-growing vocabulary bank, translations, and a community story hub.",
             img: readmando,
             link: "https://readmando.netlify.app/",
         },
@@ -19,7 +19,7 @@ export default function Projects() {
         },
         {
             title: "Sentiment Paper Trader",
-            summary: "LPL Hackathon project that analyzes the sentiment of a stock ticker from any rWallstreet subreddit.",
+            summary: "Hackathon project that analyzes the sentiment of a stock ticker from any r/Wallstreet subreddit.",
             img: sentimentanalysis,
             link: "https://github.com/getter111/sentiment-paper-trader",
         },

@@ -11,7 +11,9 @@ export default function Experiences() {
             date: "Aug 2025 – Present",
             location: "Clemson, SC",
             bullets: [
-                "Industry-sponsored capstone project focused on fine-tuning and evaluating LLM/SLMs for agentic workflows"
+                "Building a frontend interface for an Agentic RAG backend, supporting real-time model configuration, retrieval tracing, and reasoning visualization",
+                "Implemented a hybrid BM25 + vector embedding retrieval RAG system to improve temporal reasoning in long video analysis",
+                "Contributed 2 pull requests to NeMo Agent Toolkit, implementing video upload functionality and a video library UI for managing video assets"
             ],
         },
         {
@@ -23,7 +25,6 @@ export default function Experiences() {
             bullets: [
                 "Created a website for engineers and manufacturing staff to view component specs and configuration metadata for meter builds, reducing lookup time on the factory floor",
                 "Redesigned backend API search functionality, standardizing hardware classification lookups by product and item number, which improved accuracy and consistency across teams",
-                "Debugged 10+ front-end issues using Azure devops to rapidly iterate",
             ],
         },
         {
@@ -33,8 +34,8 @@ export default function Experiences() {
             date: "Jun 2024 - Aug 2024",
             location: "Tarrytown, NY",
             bullets: [
-                "Automated lab test ratio balancing, reducing manual calculation time and improving accuracy of workflow scheduling",
-                "Collaborated with cross-functional teams to build a 10 page dashboard, analyzing site-level throughput, module performance, and system bottlenecks",
+                "Improved workflow efficiency and data accuracy of lab automation worklists by creating a tool to automate the balancing of test ratios and learned how to improve coverage by writing unit tests",
+                "Delivered insights about system optimization and reliability by collaborating with cross-functional teams to build a 10-page Power BI dashboard, analyzing site-level throughput, module performance, and system bottlenecks"
             ],
         },
         {
